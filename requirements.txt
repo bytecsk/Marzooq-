@@ -4,4 +4,5 @@ numpy
 matplotlib
 seaborn
 joblib
+scikit-learn
 pillow>=10.0.0
